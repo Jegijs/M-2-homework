@@ -25,16 +25,10 @@ body {
     font-size: 35px;
     font-weight: 600;
     color: rgb(8, 118, 178);
-
 }
 
 .logo-b {
     color: rgb(8, 118, 178);
-}
-
-div {
-    list-style: none;
-    display: inline-block; 
 }
 
 div a{
@@ -42,7 +36,5 @@ div a{
     font-size: 18px;
     font-weight: bold;
     align-items: center;
-    
-
 }
 
