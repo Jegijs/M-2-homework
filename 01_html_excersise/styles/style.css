@@ -2,10 +2,6 @@
     text-decoration: none;
 }
 
-body {
-    margin: 0px;
-}
-
 .navbar{
     display: flex;
     background: white;
